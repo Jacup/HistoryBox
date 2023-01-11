@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "HistoryBox (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "HistoryBox (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
